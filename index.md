@@ -12,7 +12,7 @@ Here is my [[CV](DavidSMillerCV.pdf)].
 
 ---
 
-## 📄 Papers
+## Papers
 
 **A Monetary-Fiscal Theory of Sudden Inflations** (with Marco Bassetto)
 *[[August 2025, Quarterly Journal of Economics](https://academic.oup.com/qje/article-pdf/140/3/1959/62049234/qjaf012.pdf)]*
@@ -31,7 +31,7 @@ Here is my [[CV](DavidSMillerCV.pdf)].
 
 ---
 
-## 📝 Non-refereed work
+## Non-refereed work
 
 **The Current Month Fed Information Effect** (with Melanie Friedrichs)
 *[[November 2024, FEDS Note](https://www.federalreserve.gov/econres/notes/feds-notes/the-current-month-fed-information-effect-20241121.html)]*
@@ -56,7 +56,7 @@ Here is my [[CV](DavidSMillerCV.pdf)].
 
 ---
 
-## 💾 Data
+## Data
 
 ### Discount Rate Database
 A database of discount rate submissions since 1977 by regional Federal Reserve banks to the Board of Governors.
