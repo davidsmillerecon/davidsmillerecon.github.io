@@ -60,7 +60,7 @@ Here is my [[CV](DavidSMillerCV.pdf)].
 
 ### Discount Rate Database
 A database of discount rate submissions since 1977 by regional Federal Reserve banks to the Board of Governors.
-[[Read Me: Upload to Repo (e.g., ReadMe_Data.pdf)](ReadMe_Data.pdf)] [[Download Data: Upload to Repo](Data_Zip.zip)]
+[[Read Me](ReadMe_Data.pdf)] [[Data](Data_Zip.zip)]
 
 *Free to use, please cite as: Miller, David S., "Discount Rate Database," mimeo, 2015.*
 
