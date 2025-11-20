@@ -4,9 +4,9 @@
 
 **Principal Economist at the Federal Reserve Board**
 
-Welcome to the homepage of David S. Miller. I am currently a [[Principal Economist](https://www.federalreserve.gov/econres/david-s-miller.htm)] at the Federal Reserve Board of Governors. My research interest is in macroeconomics, more specifically the interaction of monetary and fiscal policy.
+Welcome to the homepage of David S. Miller. I am currently a [Principal Economist](https://www.federalreserve.gov/econres/david-s-miller.htm) at the Federal Reserve Board of Governors. My research interest is in macroeconomics, more specifically the interaction of monetary and fiscal policy.
 
-Here is my [[CV](DavidSMillerCV.pdf)].
+Here is my [CV](DavidSMillerCV.pdf).
 
 <br clear="all" />
 
@@ -31,7 +31,7 @@ Here is my [[CV](DavidSMillerCV.pdf)].
 ## Non-refereed work
 
 **Monetary Unions in a Political Economy Model of Fiscal and Monetary Policy Interaction**
-[[Slides)](Slides_MU.pdf)]
+[[Paper](MUPaper.pdf)] [[Slides](MUSlides.pdf)]
 
 **The Current Month Fed Information Effect** (with Melanie Friedrichs)
 *[[November 2024, FEDS Note](https://www.federalreserve.gov/econres/notes/feds-notes/the-current-month-fed-information-effect-20241121.html)]*
