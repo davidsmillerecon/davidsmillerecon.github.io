@@ -1,4 +1,4 @@
-<img src="unnamed-1.jpg" align="right" width="250" alt="David S. Miller">
+<img src="unnamed-1.jpg" align="right" width="300" alt="David S. Miller">
 
 # David S. Miller, Economist
 
@@ -20,7 +20,7 @@ Here is my [CV](DavidSMillerCV.pdf).
 
 **Optimal Structure of Fiscal and Monetary Authorities**\
 *[[January 2019, Journal of Money, Credit and Banking](https://onlinelibrary.wiley.com/doi/10.1111/jmcb.12606)]*
-[[Slides](MillerSlides.pdf)]
+[[Paper](OptimalDesignPaper.pdf)][[Slides](MillerSlides.pdf)]
 
 **Commitment versus Discretion in a Political Economy Model of Fiscal and Monetary Policy Interaction**\
 *[[December 2016, Journal of Monetary Economics](https://www.sciencedirect.com/science/article/abs/pii/S0304393216300939)]*
