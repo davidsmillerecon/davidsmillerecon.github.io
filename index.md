@@ -24,14 +24,14 @@ Here is my [[CV](DavidSMillerCV.pdf)].
 
 **Commitment versus Discretion in a Political Economy Model of Fiscal and Monetary Policy Interaction**
 *[[December 2016, Journal of Monetary Economics](https://www.sciencedirect.com/science/article/abs/pii/S0304393216300939)]*
-
-
-**Monetary Unions in a Political Economy Model of Fiscal and Monetary Policy Interaction**
-[[Slides: Upload to Repo (e.g., Slides_MU.pdf)](Slides_MU.pdf)]
+[[Paper](CommitvsDiscPaper.pdf)] [[Slides](CommitvsDiscSlides.pdf)]
 
 ---
 
 ## Non-refereed work
+
+**Monetary Unions in a Political Economy Model of Fiscal and Monetary Policy Interaction**
+[[Slides)](Slides_MU.pdf)]
 
 **The Current Month Fed Information Effect** (with Melanie Friedrichs)
 *[[November 2024, FEDS Note](https://www.federalreserve.gov/econres/notes/feds-notes/the-current-month-fed-information-effect-20241121.html)]*
